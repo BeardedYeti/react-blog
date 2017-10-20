@@ -1,11 +1,12 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "name": "react-blog",
+  "description": "React Gatsby Blog",
+  "version": "0.0.1",
+  "author": "Colin Smith <cmsgoboston41@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.73",
     "gatsby-link": "^1.6.22",
+    "gatsby-plugin-catch-links": "^1.0.9",
     "gatsby-plugin-react-helmet": "^1.0.8"
   },
   "keywords": [
